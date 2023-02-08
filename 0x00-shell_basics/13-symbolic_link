@@ -1,2 +1,2 @@
-#1/bin/basha
+#!/bin/basha
 ln -s /bin/ls  __ls__
